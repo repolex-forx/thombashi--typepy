@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/thombashi/typepy/commit/1cd4e7f58b2ef83e7ce09de338117f33c330c90d",
       "git:hexsha": "1cd4e7f58b2ef83e7ce09de338117f33c330c90d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/thombashi/typepy/commit/224a807e6066d568430cebf9c83be69b17b90eee",
